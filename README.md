@@ -1,5 +1,5 @@
 # News
-随着众多ANTICHEATS都推出了IOMMU-DMA数据通道错误检测，传统DMA方案已逐渐成为历史，近两个月来我一直在开发新的方式，目前仍有一些性能问题，例如不经常的low speed卡顿，但这已经够用了。
+针对双机转换器的读写检测工具已发行 https://github.com/Herooyyy/DMA-Convert-Checker
 
 The dual-machine memory converter has been completed.
 
